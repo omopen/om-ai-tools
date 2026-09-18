@@ -1,0 +1,8 @@
+.DS_Store
+*.tgz
+*.tar.gz
+node_modules/
+extracted/
+__pycache__/
+*.pyc
+.env
