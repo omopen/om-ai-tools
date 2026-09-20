@@ -1,7 +1,7 @@
 # OM AI Tools
 
 **Curated AI tool assessments and free resources by [OM Open AI](https://omopen.ai)**
-
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/5c46f13c-438e-44a0-b941-900782d5728e" />
 ---
 
 OM Open AI builds AI-powered platforms for wellness, sales, and enterprise automation. As part of our commitment to the developer community, this repository publishes:
